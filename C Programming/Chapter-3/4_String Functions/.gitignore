@@ -3,3 +3,6 @@
 *.txt
 *.exe
 *.bin
+.input.txt
+*.output.txt
+*.out
