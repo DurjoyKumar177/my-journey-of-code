@@ -30,3 +30,11 @@ int main()
     cout<< b.name<< " "<< b.roll<< " "<< b.cgpa<<endl;
     return 0;
 }
+// input:
+// Dev 123 3.54
+// Sree Durjoy Kumar
+// 102 4.0
+// output:
+// Dev 123 3.54
+// Sree Durjoy Kumar 102 4
+// Best Student is: Sree Durjoy Kumar 102 4
